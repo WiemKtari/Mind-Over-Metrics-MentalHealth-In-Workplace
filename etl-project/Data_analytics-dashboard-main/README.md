@@ -19,7 +19,7 @@ Analysis of personal and workplace-related factors influencing the likelihood of
    
 Evaluation of how company policies, culture, and perceived support impact employees' mental well-being.
 
-4.Mental Health vs Physical Health
+4. Mental Health vs Physical Health
 
 Comparative insights into how employees perceive mental health in relation to physical health.
 
@@ -27,11 +27,11 @@ Comparative insights into how employees perceive mental health in relation to ph
 
 The dashboard includes dynamic filters that allow users to refine the analysis based on:
 
-Country
+- Country
 
-Type of Work
+- Type of Work
 
-Age Group
+- Age Group
 
 This enables tailored exploration and deeper understanding of how mental health trends vary across different contexts.
 
